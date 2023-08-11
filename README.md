@@ -64,5 +64,7 @@
 礼记 使用 GPL-3.0 开源许可协议，在此之前请您务必了解该协议的许可说明以及遵守该协议的法律条件，详情请参阅 [LICENSE](https://github.com/chadwuo/li-ji-weapp/blob/master/LICENSE)。
 
 ---
-<span style="display:block;text-align:center;color:grey;">Copyright © Chadwuo Design. All Rights Reserved</span>
+
+<h5 align="center">Copyright © Chadwuo Design. All Rights Reserved</h5>
+
 
