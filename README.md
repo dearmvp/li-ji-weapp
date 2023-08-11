@@ -37,7 +37,7 @@
 
 ### 贡献者
 
-感谢所有已经为 礼记 做出贡献的人！
+感谢所有贡献者，更希望能有更多的人助力 **礼记** 的成长！
 
 <a href="https://github.com/Chadwuo/li-ji-weapp/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Chadwuo/li-ji-weapp" />
@@ -55,7 +55,7 @@
 - [阿里云 Serverless](https://serverless.aliyun.com)：阿里云 Serverless
 - [今日诗词 API](https://www.jinrishici.com)：![今日诗词](https://v2.jinrishici.com/one.svg)
 
-## Star History
+### Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=Chadwuo/li-ji-weapp&type=Date)](https://star-history.com/#Chadwuo/li-ji-weapp&Date)
 
 
@@ -63,4 +63,6 @@
 
 礼记 使用 GPL-3.0 开源许可协议，在此之前请您务必了解该协议的许可说明以及遵守该协议的法律条件，详情请参阅 [LICENSE](https://github.com/chadwuo/li-ji-weapp/blob/master/LICENSE)。
 
-Copyright © Chadwuo Design. All Rights Reserved
+---
+<span style="display:block;text-align:center;color:grey;">Copyright © Chadwuo Design. All Rights Reserved</span>
+
